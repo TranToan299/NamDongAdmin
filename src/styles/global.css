@@ -1,0 +1,27 @@
+.tox-statusbar {
+  display: none !important  ;
+}
+.tox-notifications-container {
+  display: none;
+}
+
+.required {
+  color:red;
+  margin-left:5px;
+}
+
+img.MuiBox-root.css-nq93rc {
+  position: absolute;
+  left: 0;
+}
+
+.clampText{
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+a{
+  color: black;
+}
